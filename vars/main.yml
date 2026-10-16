@@ -4,7 +4,7 @@ admin_user: admin
 
 admin_group: sudo
 
-ansible_pull_repo: "https://github.com/LearnLinuxTV/ansible-pull-tutorial.git"
+ansible_pull_repo: "https://github.com/winteriscoming75/ansible-pull-tutorial.git"
 
 managed_service: ssh
 
